@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-MMSDV4Q_MSSQLSERVER2.MedicalCenter_DB"
+  DTS:DTSID="{B02EC246-C3D9-499A-AA9A-23D7EE6E410F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-MMSDV4Q\MSSQLSERVER2;Initial Catalog=MedicalCenter_DB;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Load_Staging_Database-{B02EC246-C3D9-499A-AA9A-23D7EE6E410F}DESKTOP-MMSDV4Q\MSSQLSERVER2.MedicalCenter_DB;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
