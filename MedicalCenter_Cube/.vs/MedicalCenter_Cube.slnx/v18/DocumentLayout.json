@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DWBI\\MedicalCenter_Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Clinic.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|solutionrelative:MedicalCenter_Cube\\Dim Clinic.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Doctor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|solutionrelative:MedicalCenter_Cube\\Dim Doctor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Patient.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|solutionrelative:MedicalCenter_Cube\\Dim Patient.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|solutionrelative:MedicalCenter_Cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Medical Center DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|solutionrelative:MedicalCenter_Cube\\Medical Center DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Medical Center DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{961149F9-5578-4235-E91B-65100248423A}|MedicalCenter_Cube\\MedicalCenter_Cube.dwproj|solutionrelative:MedicalCenter_Cube\\Medical Center DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Clinic.dim [Design]",
+              "DocumentMoniker": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Clinic.dim",
+              "RelativeDocumentMoniker": "MedicalCenter_Cube\\Dim Clinic.dim",
+              "ToolTip": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Clinic.dim [Design]",
+              "RelativeToolTip": "MedicalCenter_Cube\\Dim Clinic.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T03:45:00.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Doctor.dim [Design]",
+              "DocumentMoniker": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Doctor.dim",
+              "RelativeDocumentMoniker": "MedicalCenter_Cube\\Dim Doctor.dim",
+              "ToolTip": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Doctor.dim [Design]",
+              "RelativeToolTip": "MedicalCenter_Cube\\Dim Doctor.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T03:43:56.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "MedicalCenter_Cube\\Dim Date.dim",
+              "ToolTip": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "MedicalCenter_Cube\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T03:36:29.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Patient.dim [Design]",
+              "DocumentMoniker": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Patient.dim",
+              "RelativeDocumentMoniker": "MedicalCenter_Cube\\Dim Patient.dim",
+              "ToolTip": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Dim Patient.dim [Design]",
+              "RelativeToolTip": "MedicalCenter_Cube\\Dim Patient.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T03:36:22.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medical Center DW.cube [Design]",
+              "DocumentMoniker": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Medical Center DW.cube",
+              "RelativeDocumentMoniker": "MedicalCenter_Cube\\Medical Center DW.cube",
+              "ToolTip": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Medical Center DW.cube [Design]",
+              "RelativeToolTip": "MedicalCenter_Cube\\Medical Center DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T03:36:11.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medical Center DW.dsv [Design]",
+              "DocumentMoniker": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Medical Center DW.dsv",
+              "RelativeDocumentMoniker": "MedicalCenter_Cube\\Medical Center DW.dsv",
+              "ToolTip": "C:\\DWBI\\MedicalCenter_Cube\\MedicalCenter_Cube\\Medical Center DW.dsv [Design]",
+              "RelativeToolTip": "MedicalCenter_Cube\\Medical Center DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T03:36:02.207Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
